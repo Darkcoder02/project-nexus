@@ -2,7 +2,7 @@ import React from 'react'
 
 function Button({type, placeholder}) {
   return (
-    <button type={type} className="bg-blue-400 p-2 rounded-xl">
+    <button type={type} className="bg-orange-400 p-2 rounded-xl text-white">
       {placeholder}
     </button>
   )

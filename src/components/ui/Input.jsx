@@ -21,7 +21,7 @@ function Input({
         id={id}
         value={value}
         onChange={handleChange}
-        className="p-2 my-2 rounded-xl bg-transparent"
+        className="p-2 my-2 rounded-xl bg-transparent w-full"
         required
       />
       {type === "password" &&
