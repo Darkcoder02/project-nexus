@@ -24,4 +24,4 @@ dist-ssr
 *.sw?
 
 # environment varibales
-sever/.env
+server/.env
